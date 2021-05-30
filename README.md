@@ -1,22 +1,7 @@
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠉⠉⠉⠉⠉⠉⠙⠲⡀⠀
-⠀⠀⠀⣴⠿⠏⠀⠀⠀⠀⠀ ⠀⢳⡀⠀ ⡏⠀⠀⠀⠀⠀        ⢷
-⠀⠀⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀⠀⠀⠀⠀         ⡇
-⠀⠀⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿⠀⣸⠀./punten_slur ⡇ 
-⠀⠀⣟⣿⡭⠀⠀⠀⠀⠀⢱⠀⠀⣿⠀⢹⠀⠀@lazyfay      ⡇
-⠀⠀⠙⢿⣯⠄⠀⠀⠀⢀⡀⠀⠀⡿⠀⠀⡇⠀⠀⠀⠀         ⡼
-⠀⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀⠀⠘⠤⣄⣠⣄⣠⣄⣠⣄⣠⣄⠞⠀
-⠀⠀⠀⠀⠀⢸⣷⡦⢤⡤⢤⣞⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀
-⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀
-⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀⠀⣄⢸⠀⠀⠀⠀⠀⠀
-⣿⣿⣧⣀⣿.........⣀⣰⣏⣘⣆⣀⠀⠀
-
 My Github is something I love.
 if you like it too please follow my github :)
-
-<a href="https://drive.google.com/file/d/1cGV5ZO4NtiySyFBz2Fu3pgLnK_RM1K7A/view?usp=sharing">Pelatihan Elektronika Dinas Pendidikan Jatim</a>
 
 certification :
 <a href="https://drive.google.com/file/d/1fPdUw5svvuJCaiXDbCCMnOHJqaOXShD7/view?usp=sharing">Competence Networking</a>
